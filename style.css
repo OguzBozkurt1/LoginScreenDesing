@@ -1,0 +1,70 @@
+body{
+    background-color: #5DA7DB;
+    height: 100%;
+}
+.box{
+    background-color: #5DA7DB;
+    position:absolute;
+    top:0px;
+    right:0px;
+    bottom:0px;
+    left:0px;
+    height: auto;
+}
+.content{
+    background-color: #3E6D9C;
+    width: 750px;
+    height: 800px;
+    margin: auto;
+    display: flex;
+    position: relative;
+    top: 100px;
+    border-radius: 10%;
+
+}
+.twLogo{
+    width: 50px;
+    height: 50px;
+    margin: auto;
+    position: relative;
+    bottom: 320px;
+    left: 351px;
+}
+.message{
+    width: 750px;
+    height: 100px;
+    position: relative;
+    top: 133px;
+    left: 234px;
+}
+h2{
+    font-size:60px;
+    font-weight: bolder;
+    color: white;
+}
+.input{
+    width: 750px;
+    position: relative;
+    top: 226px;
+    left: -167px;
+}
+input {
+    line-height: 50px;
+    background-color: #3E6D9C;
+}
+.button{
+    width: 100px;
+    height: 50px;
+    background-color: #404258;
+}
+.btn2 {
+    width: 407px;
+    position: relative;
+    background-color: #404258;
+}
+.footer{
+    height: 200px;
+    background-color: black;
+    position: relative;
+    top: 932px;
+}
